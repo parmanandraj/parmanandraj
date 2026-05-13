@@ -1,49 +1,53 @@
 # Hi there 👋, I'm Parmanand Kumar
 
-### 👨‍💻 Software Engineering Student | Aspiring Developer
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-I am a passionate software engineering student dedicated to building impactful applications and honing my craft in full-stack development. I enjoy solving complex problems and staying up-to-date with the latest industry trends.
+### 👨‍💻 About Me
+I am a passionate software engineering student dedicated to building impactful applications and honing my craft in full-stack development.
+
+- 🔭 **Current Project:** Building an [AI-Based Resume Screening System](https://github.com/parmanandraj/AI-Based-Resume-Screening-Job-Matching-System)
+- 🌱 **Learning:** Advanced Python backend and React.js
+- ⚡ **Fun Fact:** I believe coding is about solving problems and creating possibilities.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Tools & OS:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</p>
 
 ---
 
-### 🔭 Current Projects & Focus
-
-- 🔭 **Working on:** Refining my portfolio and building an AI-powered Resume application.
-- 🌱 **Learning:** Advanced Python backend development and React.js.
-- 👯 **Looking to collaborate on:** Open-source projects related to web development.
-- 💬 **Ask me about:** Java logic, Python virtual environments, or basic frontend styling.
+### ⌨️ Coding Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parmanandraj&theme=react-dark" width="100%" />
+</p>
 
 ---
 
-### 📈 GitHub Activity
-
-| Days | Commits | Pull Requests | Issues |
-| --- | --- | --- | --- |
-| Total | ![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=commits&query=totalCommits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dparmanandraj) | ![PRs](https://img.shields.io/badge/dynamic/json?color=green&label=PRs&query=totalPRs&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dparmanandraj) | ![Issues](https://img.shields.io/badge/dynamic/json?color=orange&label=issues&query=totalIssues&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dparmanandraj) |
-
----
-
-### 📫 How to reach me:
-
-* **LinkedIn:** [linkedin.com/in/parmanandraj](https://www.linkedin.com/in/parmanandraj/)
-* **Email:** [parmanandraj908@gmail.com](mailto:parmanandraj908@gmail.com)
+### 📫 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/parmanandraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parmanandraj" height="30" width="40" /></a>
+<a href="mailto:parmanandraj908@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="35" /></a>
+</p>
 
 ---
 
-"Coding is not just about typing; it's about solving problems and creating possibilities." ⚡
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parmanandraj&label=Profile%20views&color=0e75b6&style=flat" alt="parmanandraj" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</p>
